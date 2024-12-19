@@ -1,0 +1,273 @@
+---
+title: "Resume"
+author: David Smith
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{r echo=FALSE, comment=FALSE, message=FALSE}
+
+library(lubridate)
+
+```
+
+
+Aside
+================================================================================
+
+<i class="fa fa-hand-peace"></i> <i class="fa fa-smile-beam"></i>  <i class="fa fa-heart"></i>
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> dstatsmith@gmail.com
+- <i class="fa fa-phone"></i> 717.679.4615
+- <i class="fa fa-link"></i> [linkedin.com](https://www.linkedin.com/in/david-smith-05585917/)
+- <i class="fa fa-github"></i> [github.com/statsmith](https://github.com/statsmith)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+
+- See the 'forest' and the 'trees', define and frame business problems, align methods to objectives, customer service, training, coaching, mentoring
+
+- R, Tidyverse, Tidymodels, Tidytext, Markdown, Shiny, Bitbucket, SQL, CSS, HTML, Dashboards, JMP
+
+- Prompt engineering, machine learning, linear regression, logistic regression, random forests, kNN, SVM, Naive Bayes, forecasting, DOE, PCA, cluster analysis, simulations, network analysis, text analysis, sentiment analysis, data visualization, EDA, statistics
+
+- Human Resources, Marketing, Sensory and Consumer Insights, Product and Process Development, R&D, Supply Chain
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Created with [**R pagedown**](https://github.com/rstudio/pagedown): `r month(Sys.Date(), label = TRUE)` `r year(Sys.Date())`.
+
+
+
+Main
+================================================================================
+
+David Smith {#title}
+--------------------------------------------------------------------------------
+
+Consistent top performer tagged as 'A-Talent' and 'High Potential'.  Energized by truth, kindness, variety, opportunities to learn and solve problems, and helping others.
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Fellow Data Scientist - HR Workforce Analytics
+
+The Hershey Company 
+
+Hershey, PA
+
+2025 - 2022
+
+- Developed trade-secret protected approach to visualizing and  identifying risk to annual cocoa crop yields 5+ months prior to main crop arrivals (~$10M/yr)
+- Co-developed app to algorithmically drive year-end compensation adjustments to ensure an equitable distribution of spend (~$2M)
+- Created simple, comprehensive, analytically-drive talent assessment process to identify, develop, and promote internal and external talent through and to the top of the organization - Partnered with top leadership to develop the vision for an overarching talent management system;  Created 'one-stop' app to guide talent decisions in the context of corporate workforce planning
+- Led analysis of route-to-market optimization (~$50M) for salty integration 
+
+### Principal Data Scientist - HR Workforce Analytics
+
+The Hershey Company 
+
+Hershey, PA
+
+2022 - 2020
+
+- Demonstrated opportunity to maximize profit (~$25M) and increase employee value proposition through simulation of manufacturing labor demand using a max profit (vs min cost) optimization strategy
+- Provided critical leadership in the development of the HR Workforce Analytics team - culture, technology, and analysis
+- Developed "game-changing" tools to ensure pay and performance equity for protected classes, saving > $250K/yr in external fees
+- Created real-time strategic labor hiring model to drive sufficient and healthy labor force and help recover $100M gap in supply chain capacity
+- Developed live COVID-19 risk models used by the EC to drive employee safety across the organization
+- Led design, development, and productionalization of real-time, interactive, longitudinal continuous listening survey analysis system
+
+
+### Senior Data Scientist - Advanced Analytics
+
+The Hershey Company
+
+Hershey, PA
+
+2020 - 2017
+
+- Forecasted corporate, category, and seasonal sales, as well as consumer trips through channels and retailers
+- Modeled and visualized year-round Smore's targeting, incorporating consumer response to climate and weather
+- Created self-service tools (CMG, meat snacks, salty snacks) enabling Marketing teams to uncover insights regarding consumer demographics, psychographics, and transitions into and out of selected categories, franchise, brand, seasons, channels, and pack types
+- Developed trends tools to guide corporate decision making with respect to future opportunities across all categories – multiple data sources (POS, Innova, Google, and social media) in an aggregate voting model (POS, forecasts, claims, searches, growth curves)
+- Developed method to assess incrementality / impact of new product innovations on base brands, leading to modifications in the way commercial and pricing teams plan financial impacts
+- Conducted TURF analysis and developed apps to quantify and visualize incremental reach from brands and pack types within franchises
+- Created apps analyzing which life stages and generations brands are most linked to, and the associated brand diversity; identified which brands were at risk of dying out as generations disappear
+- Pioneered app to analyze, visualize, and extract insights for consumer shopping behaviors; where consumers shop, how often, their spend, basket size, demographics, and segmentation
+
+
+
+
+
+
+### Statistician - R&D
+
+The Hershey Company
+
+Hershey, PA
+
+2017 - 2011
+
+- Drove new product development through the use of statistically designed experiments (DOE) and drivers of liking (DOL) studies - modeling consumer liking on formulations, processes, and sensory characteristics (>$500M in new revenue)
+- Developed real-time sensory and consumer research analysis tool, saving $100K's in supplier fees and reducing typical development time by months
+- Created a "formula-finder" app to extract competitive formulations based on nutritional profile and order of ingredients listed on packaging; subsequently developed an app to drive internal formula development based on corporate nutritional guidelines
+- Conducted risk analysis on pesticides and heavy metals to ensure consumer safety and save $3M/yr via increased supply chain flexibility
+- Led analysis to uncover the underlying values driving disparate consumer dieting fads and trends
+- Trained R&D personnel in the use of statistics and statistical software; Mentored summer interns (annually) in the design and analysis of their projects
+
+
+
+### Independent Consultant
+
+Statsmith LLC
+
+Lebanon, PA
+
+2011 - 2005
+
+
+
+### Sr. Sensory Analyst
+
+Firmenich Incorporated
+
+Plainsboro, NJ
+
+2005 - 2002
+
+
+
+### Product Development Chemist
+
+Allied Domecq Sprits & Wine
+
+Plymouth, MI
+
+2001 - 1997
+
+
+
+### Product & Process Development Engineer
+
+Kraft General Foods
+
+Evanston, IL
+
+1994 - 1991
+
+
+
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Continuing Education
+
+Coursera
+
+Online
+
+2024 - 2012
+
+
+- [Python for Everyone (2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/I69LKGV6V8P3)
+- [Prompt Engineering Certification (2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/XC43ESCXRNZC)
+- [Unethical Decision Making in Organizations  (2021)](https://www.coursera.org/account/accomplishments/certificate/AFGLBYHA4MVA)
+- [Deep Learning (2018)](https://www.coursera.org/account/accomplishments/specialization/certificate/URKYWU98F239)
+- [Business Analytics (2016)](https://www.coursera.org/account/accomplishments/specialization/certificate/RTWPVMWYZREJ)
+- [Essentials of Corporate Finance (2015)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUBWWQZ3QBJZ)
+- [Model Thinking (2015)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972512~733749/pdf)
+- [Data Science (2014)](https://www.coursera.org/account/accomplishments/specialization/certificate/34ECM4nkEe)
+- [Game Theory (2013)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/86~733749/pdf)
+- [Social and Economic Networks: Models and Analysis (2013)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970736~733749/pdf)
+- [Big Data in Education (2013)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/970445~733749/pdf)
+- [Principles of Obesity Economics (2012)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/238~733749/pdf)
+
+
+### Eastern Michigan University
+
+M.A. Applied Statistics
+
+Ypsilanti, MI
+
+2001
+
+
+
+### Purdue University
+
+B.S. Food Process Engineering <br> B.S. Biochemistry
+
+West Lafayette, IN
+
+1991
+
+*Graduated with Highest Distinction*  
+
+  
+  
+ 
+Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Product of the Year
+
+Environment + Energy Leader
+
+Phoenix, AZ
+
+2021
+
+[Automated Surface Water Quality Assessment Tool](https://azdeq.gov/press-releases/adeq-automated-surface-water-quality-assessment-tool-earns-top-project).  "Slashed the time to conduct a statewide surface water quality assessment of over 1,400 waters by more than 99 percent — what took nine months of staff time now takes roughly 15 minutes and saves more than $500,000 annually."
+
+### Global R&D Quality and Productivity Peer Award
+
+Peer Nominee
+
+Hershey, PA
+
+2016 - 2011
+
+- Innovator - nominee
+- Smart Risk Taking - nominee
+- Leading R&D into the Future - award winner
+- Bold Innovator - nominee
+
+
+### Kraft Operations Achievement Award
+
+Cross-functional Team Award
+
+Glenview, IL 
+
+1993
+
+Optimizing production efficiencies of frozen dinners and entrees
+ 
+### Phi Beta Kappa
+
+Academic honors organization
+
+West Lafayette, IN
+
+1991
